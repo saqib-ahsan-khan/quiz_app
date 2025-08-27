@@ -10,20 +10,11 @@ Minimal quiz app demonstrating state and time-based UI with navigation.
 - Final score displayed at the end
 - Navigation: Home -> Quiz -> Result
 
-## How to Run
-
-```bash
-flutter pub get
-flutter run
-```
 
 ## Screenshots
 
 Add screenshots here:
-
-- Home Screen
-- Quiz Screen (timer visible)
-- Result Screen
+![IMG-20250827-WA0080](https://github.com/user-attachments/assets/8dfcc44f-250e-4290-ada5-9d56a95487dd)
 
 ## Tech Notes
 

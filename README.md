@@ -12,12 +12,5 @@ Minimal quiz app demonstrating state and time-based UI with navigation.
 
 
 ## Screenshots
+<img width="3375" height="3375" alt="2" src="https://github.com/user-attachments/assets/fba72324-7010-4633-a8f4-ae15bc299f12" />
 
-Add screenshots here:
-![IMG-20250827-WA0080](https://github.com/user-attachments/assets/8dfcc44f-250e-4290-ada5-9d56a95487dd)
-
-## Tech Notes
-
-- State management via StatefulWidget and setState
-- Timer from `dart:async` to implement countdown and auto-skip
-- Simple Navigator routes for screen transitions
